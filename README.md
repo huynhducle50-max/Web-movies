@@ -1,2 +1,0 @@
-# Web-movies
-Projects cousera
